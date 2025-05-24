@@ -20,7 +20,7 @@
 
    ```bash
    git clone https://github.com/2002-vetrivel/Create-AWS-VPC-with-IaC-Terraform-.git
-   cd aws-vpc-terraform
+   cd project-folder
    ```
 
 2. **Initialize Terraform**
