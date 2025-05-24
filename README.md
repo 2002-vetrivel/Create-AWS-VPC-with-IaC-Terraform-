@@ -19,7 +19,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/aws-vpc-terraform.git
+   git clone https://github.com/2002-vetrivel/Create-AWS-VPC-with-IaC-Terraform-.git
    cd aws-vpc-terraform
    ```
 
